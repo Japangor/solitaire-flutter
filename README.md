@@ -2,7 +2,7 @@
 
 A Solitaire clone made in Flutter.
 
-![alt text](https://github.com/japangor/solitare-flutter/blob/master/screenshot.png)
+![alt text](https://github.com/japangor/solitaire-flutter/blob/master/screenshot.png)
 
 ## Getting Started
 
